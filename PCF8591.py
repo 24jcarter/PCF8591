@@ -25,4 +25,3 @@ def write(val):
     except Exception as e:
         print ("Error: Device address: 0x%2X " % address)
         print (e)
-
